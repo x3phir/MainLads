@@ -13,7 +13,7 @@
 Dokumen ini menerjemahkan requirement di PRD menjadi keputusan teknis: stack, arsitektur, skema database, desain API, dan infrastruktur untuk MVP MainLads. Prinsip utama yang dipegang: **sederhana, murah untuk dijalankan, dan cepat untuk divalidasi** — mengingat MVP ini gratis (tidak ada revenue di awal) dan skala awal kecil (target 5-10 komunitas di Bandung).
 
 ## 2. Pilihan Tech Stack
-
+-
 | Layer | Pilihan | Alasan |
 |---|---|---|
 | Frontend Web | **Vue 3 (Composition API) + Vite** | Ringan, cepat dikembangkan, cocok untuk tim kecil |
